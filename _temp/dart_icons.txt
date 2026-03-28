@@ -1,0 +1,17 @@
+﻿  ÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉ
+     FLUTTER LAUNCHER ICONS (v0.14.4)                               
+  ÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉ
+  
+ÔÇó Creating default icons Android
+ÔÇó Creating adaptive icons Android
+ÔÇó Updating colors.xml with color for adaptive icon background
+ÔÇó Overwriting the default Android launcher icon with a new icon
+ÔÇó Creating mipmap xml file Android
+
+WARNING: Icons with alpha channel are not allowed in the Apple App Store.
+Set "remove_alpha_ios: true" to remove it.
+
+ÔÇó Overwriting default iOS launcher icon with new icon
+No platform provided
+
+Ô£ô Successfully generated launcher icons

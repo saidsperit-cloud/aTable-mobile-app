@@ -1,0 +1,33 @@
+Current dir: e:\vs\repos\aTable\atable_app
+Compilation did not produce any result. Expected file at `e:\vs\repos\aTable\atable_app\.dart_tool/pub\bin\flutter_launcher_icons\tmp934624e8\flutter_launcher_icons.dart-3.8.1.snapshot.incremental.temp`
+PathNotFoundException: Cannot rename file to 'e:\vs\repos\aTable\atable_app\.dart_tool/pub\bin\flutter_launcher_icons\flutter_launcher_icons.dart-3.8.1.snapshot', path = 'e:\vs\repos\aTable\atable_app\.dart_tool/pub\bin\flutter_launcher_icons\tmp934624e8\flutter_launcher_icons.dart-3.8.1.snapshot.incremental.temp' (OS Error: Le fichier spécifié est introuvable.
+, errno = 2)
+#0      _File.throwIfError (dart:io/file_impl.dart:782:7)
+#1      _File.renameSync (dart:io/file_impl.dart:399:5)
+#2      renameFile (package:pub/src/io.dart:565:14)
+#3      precompile (package:pub/src/dart.dart:169:7)
+<asynchronous suspension>
+#4      Entrypoint._precompileExecutable (package:pub/src/entrypoint.dart:743:5)
+<asynchronous suspension>
+#5      Entrypoint.precompileExecutable.<anonymous closure> (package:pub/src/entrypoint.dart:728:14)
+<asynchronous suspension>
+#6      Progress.stop (package:pub/src/progress.dart:61:3)
+<asynchronous suspension>
+#7      Entrypoint.precompileExecutable (package:pub/src/entrypoint.dart:726:5)
+<asynchronous suspension>
+#8      errorsOnlyUnlessTerminal (package:pub/src/log.dart:435:18)
+<asynchronous suspension>
+#9      getExecutableForCommand (package:pub/src/executable.dart:426:9)
+<asynchronous suspension>
+#10     RunCommand.run (package:dartdev/src/commands/run.dart:456:20)
+<asynchronous suspension>
+#11     CommandRunner.runCommand (package:args/command_runner.dart:212:13)
+<asynchronous suspension>
+#12     DartdevRunner.runCommand (package:dartdev/dartdev.dart:247:18)
+<asynchronous suspension>
+#13     runDartdev (package:dartdev/dartdev.dart:47:16)
+<asynchronous suspension>
+#14     main (file:///C:/b/s/w/ir/x/w/sdk/pkg/dartdev/bin/dartdev.dart:13:5)
+<asynchronous suspension>
+
+.

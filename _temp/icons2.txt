@@ -1,0 +1,9 @@
+﻿dart : Could not find package `flutter_launcher_icons` or file 
+`flutter_launcher_icons`
+Au caractère Ligne:1 : 1
++ dart run flutter_launcher_icons 2>&1 | Out-File "e:\vs\repos\aTable\_ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Could not find ...launcher_icons` 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

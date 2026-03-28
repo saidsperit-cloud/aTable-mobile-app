@@ -1,0 +1,22 @@
+﻿Changing current working directory to: E:\vs\repos
+flutter : ../../runtime/vm/zone.cc: 96: error: Out of memory.
+Au caractère Ligne:1 : 1
++ flutter pub run flutter_launcher_icons 2>&1 | Out-File "e:\vs\repos\a ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (../../runtime/v... Out of memory. 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+version=3.8.1 (stable) (Wed May 28 00:47:25 2025 -0700) on "windows_x64"
+pid=35536, thread=35716, isolate_group=dartdev(000001FE771AB5A0), 
+isolate=(nil)(0000000000000000)
+os=windows, arch=x64, comp=no, sim=no
+isolate_instructions=1fe7a3f0000, vm_instructions=7ff7ac1399c0
+fp=aeaa7fdc20, sp=aeaa7fdbf8, pc=7ff7ac3edacc
+  pc 0x00007ff7ac3edacc fp 0x000000aeaa7fdc20 Dart_DetectNullSafety+0x2aba1c
+-- End of DumpStackTrace
+=== Crash occurred when compiling dart:core_RegExp_^(\d+)\.(\d+)\.(\d+)(-([0-9A
+-Za-z-]+(\.[0-9A-Za-z-]+)*))?(\+([0-9A-Za-z-]+(\.[0-9A-Za-z-]+)*))?$ in 
+optimizing JIT mode in unknown pass
+=== Flow Graph not available
+Failed to update packages.
