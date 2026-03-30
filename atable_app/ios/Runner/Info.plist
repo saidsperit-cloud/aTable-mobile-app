@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Atable App</string>
+	<string>aTable Patron</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -45,5 +45,29 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+	<!-- Notifications -->
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+
+	<!-- Microphone -->
+	<key>NSMicrophoneUsageDescription</key>
+	<string>aTable utilise le microphone pour l'assistant vocal et les fonctionnalités audio.</string>
+
+	<!-- Camera -->
+	<key>NSCameraUsageDescription</key>
+	<string>aTable utilise la caméra pour scanner des QR codes et prendre des photos.</string>
+
+	<!-- Photo Library -->
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>aTable accède à vos photos pour vous permettre de les partager dans l'application.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>aTable peut sauvegarder des images dans votre photothèque.</string>
+
+	<!-- Files -->
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>aTable accède aux fichiers pour l'import et l'export de données.</string>
 </dict>
 </plist>
